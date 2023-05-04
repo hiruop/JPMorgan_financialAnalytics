@@ -12,5 +12,4 @@
 8. Presentation
 
 #### JP Morgan has played a key role in many significant events in American history. For example, the organization helped to finance the construction of the Panama Canal and played a major role in the formation of the Federal Reserve System in the early 20th century.
-![image](https://user-images.githubusercontent.com/78246319/236330063-a72f14e0-2062-44fd-82ec-72b5b66d1051.png)
 
